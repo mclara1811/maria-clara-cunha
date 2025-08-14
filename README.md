@@ -1,6 +1,6 @@
 ## Hey 👋, This is Maria Clara Cunha
 [![Gmail Badge](https://img.shields.io/badge/-m.clara1811@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.clara1811@gmail.com)](mailto:m.clara1811@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mariaclara-cunha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaclara-cunha/)](https://www.linkedin.com/in/mariaclara-cunha/) [![Github Badge](https://img.shields.io/badge/-mclara1811-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mclara1811/)](https://www.github.com/mclara1811/) <p align='left'>Hi there! I'm Maria 👋
+[![Linkedin Badge](https://img.shields.io/badge/-mariaclara-cunha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaclara-cunha/)](https://www.linkedin.com/in/mariaclara-cunha/) [![Github Badge](https://img.shields.io/badge/-mclara1811-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mclara1811/)](https://www.github.com/mclara1811/) <p align='left'> 
 
 I'm a Business Intelligence student upskilling at TripleTen Bootcamp—diving deep into Spreadsheets, SQL, Python, Tableau, and Power BI. Having graduated in Business in 2017, I’m excited to revisit the field eight years later—this time, with a data-oriented perspective.
 
