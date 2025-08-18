@@ -10,4 +10,4 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 4 | E-commerce company | The project task was to analyze the raw transaction logs of an e-commerce company |
 | 5 | Superstore | The project task was to review the superstore’s operations and increase its profitability to avoid bankruptcy using Tableau |
 | 6 | Superstore 2 | The project task was to analyze what is causing the high number of returned orders at the Superstore and how to reduce the volume of returned orders and present it using Tableau |
-| 5 | Shopify App | The project task was to review the landscape of apps on the Shopify platform and figure out what key factors play into the success of an app using Power BI |
+| 7 | Shopify App | The project task was to review the landscape of apps on the Shopify platform and figure out what key factors play into the success of an app using Power BI |
